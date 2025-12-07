@@ -1,0 +1,3 @@
+violation,start_time,end_time,duration_sec,vehicle_speed,manoeuvre,detected_signs
+Stop Sign Violation,0.87,1.79,0.92,50.0,Driving straight,Speed Limit 120;Stop;Speed Limit 50
+Stop Sign Violation,3.12,3.54,0.42,50.0,Driving straight,Stop
